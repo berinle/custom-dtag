@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/com.lowagie/itext/jars/itext-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/commons-collections/commons-collections/jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/commons-lang/commons-lang/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/displaytag/displaytag/jars/displaytag-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/log4j/log4j/jars/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.slf4j/jcl104-over-slf4j/jars/jcl104-over-slf4j-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.4.2.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
